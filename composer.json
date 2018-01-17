@@ -1,5 +1,5 @@
 {
-    "name": "rossedman/teamwork",
+    "name": "nigelheap/teamwork",
     "description": "PHP wrapper for the Teamwork project management API",
     "keywords": ["teamwork", "api", "laravel", "project management"],
     "license": "MIT",
