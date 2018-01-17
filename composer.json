@@ -7,11 +7,15 @@
         {
             "name": "Ross Edman",
             "email": "ross.edman@gmail.com"
+        },
+        {
+            "name": "Nigel Heap",
+            "email": "nigel@nigelheap.com"
         }
     ],
     "require": {
         "php": ">=5.4.0",
-        "guzzlehttp/guzzle": "~5.2"
+        "guzzlehttp/guzzle": "~6.3"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.5",
