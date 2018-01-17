@@ -1,4 +1,4 @@
-<?php  namespace Rossedman\Teamwork\Contracts;
+<?php  namespace NigelHeap\Teamwork\Contracts;
 
 interface RestfulInterface {
 

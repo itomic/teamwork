@@ -1,7 +1,7 @@
 <?php
 
 use Mockery as m;
-use Rossedman\Teamwork\Client;
+use NigelHeap\Teamwork\Client;
 
 class ClientTest extends PHPUnit_Framework_TestCase {
 
@@ -32,7 +32,7 @@ class ClientTest extends PHPUnit_Framework_TestCase {
 
         $returned = $client->buildRequest('packages', 'GET');
 
-        $this->assertInstanceOf('Rossedman\Teamwork\Client', $returned);
+        $this->assertInstanceOf('NigelHeap\Teamwork\Client', $returned);
         $this->assertInstanceOf('GuzzleHttp\Message\Request', $returned->getRequest());
     }
 

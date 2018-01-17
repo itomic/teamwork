@@ -1,3 +1,3 @@
-<?php  namespace Rossedman\Teamwork\Exceptions; 
+<?php  namespace NigelHeap\Teamwork\Exceptions; 
 
 class ClassNotCreatedException extends \Exception {}

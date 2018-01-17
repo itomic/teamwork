@@ -1,6 +1,6 @@
-<?php  namespace Rossedman\Teamwork;
+<?php  namespace NigelHeap\Teamwork;
 
-use Rossedman\Teamwork\Traits\RestfulTrait;
+use NigelHeap\Teamwork\Traits\RestfulTrait;
 
 class Message extends AbstractObject {
 

@@ -1,6 +1,6 @@
-<?php  namespace Rossedman\Teamwork;
+<?php  namespace NigelHeap\Teamwork;
 
-use Rossedman\Teamwork\Contracts\RequestableInterface;
+use NigelHeap\Teamwork\Contracts\RequestableInterface;
 
 abstract class AbstractObject {
 
