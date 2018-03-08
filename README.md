@@ -2,8 +2,6 @@
 
 ![teamwork-graphic](https://cloud.githubusercontent.com/assets/2628905/7765016/853f462c-001e-11e5-90ac-389bf1a6c2fe.jpg)
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/nigelheap/teamwork/badges/quality-score.png?b=master&s=997768a5d702b571dac7d50ae4f85af7236bcf5d)](https://scrutinizer-ci.com/g/nigelheap/teamwork/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/nigelheap/teamwork/badges/coverage.png?b=master&s=c042749710f918bf24803ebe4f86491b53562fa8)](https://scrutinizer-ci.com/g/nigelheap/teamwork/?branch=master)
 [![Build Status](https://travis-ci.org/nigelheap/teamwork.svg?branch=master)](https://travis-ci.org/nigelheap/teamwork)
 ![Release](https://img.shields.io/github/release/nigelheap/teamwork.svg?style=flat)
 ![License](https://img.shields.io/packagist/l/nigelheap/teamwork.svg?style=flat)
