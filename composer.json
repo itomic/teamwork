@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=5.5.0",
         "guzzlehttp/guzzle": "~6.3"
     },
     "require-dev": {
@@ -24,6 +24,16 @@
     "autoload": {
         "psr-0": {
             "NigelHeap\\Teamwork\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "NigelHeap\\Teamwork\\TeamworkServiceProvider"
+            ],
+            "aliases": {
+                "Teamwork": "NigelHeap\\Teamwork\\Facades\\Teamwork"
+            }
         }
     },
     "suggest": {
